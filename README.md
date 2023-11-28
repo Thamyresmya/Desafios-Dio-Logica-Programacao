@@ -29,7 +29,6 @@
 Neste repositório você tem acesso a todo o material produzido no curso.
 
 
-
 ## Desenvolvedores
 
 [<img src="https://github.com/Thamyresmya.png" width=115><br><sub>Thamyres Cavalcante</sub>](https://github.com/Thamyresmya) 
