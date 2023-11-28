@@ -4,9 +4,6 @@ public class Heroi {
     private String tipo = "";
 
     //construtor
-    public Heroi() {
-    }
-
     public Heroi(String nome, int idade) {
         this.nome = nome;
         this.idade = idade;
@@ -38,7 +35,7 @@ public class Heroi {
     }
 
     // metodos
-    public void atacar(){
+    public void atacar(String tipo){
         String ataque = "";
 
         switch (tipo){
