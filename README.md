@@ -8,7 +8,7 @@
 
 **Desafios**
 
-- `Classificador de Nível de Herói: `  [Link](https://www.linkedin.com/in/thamyrescavalcante/)
+- `Classificador de Nível de Herói: `  [Link]()
 - `Calculadora de Partidas Rankeadas: ` [Link](https://github.com/Thamyresmya/Desafios-Dio-Logica-Programacao/tree/main/DesafioCalculadora)
 - `Escrevendo as Classes de Um Jogo: ` [Link](https://github.com/Thamyresmya/Desafios-Dio-Logica-Programacao/tree/main/DesafioJogo)
 
