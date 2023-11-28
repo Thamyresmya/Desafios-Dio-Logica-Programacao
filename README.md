@@ -8,7 +8,7 @@
 
 **Desafios**
 
-- `Classificador de Nível de Herói: `  [Link]()
+- `Classificador de Nível de Herói: `  [Link](https://github.com/Thamyresmya/Desafios-Dio-Logica-Programacao/tree/main/DesafioClassificadorNivel)
 - `Calculadora de Partidas Rankeadas: ` [Link](https://github.com/Thamyresmya/Desafios-Dio-Logica-Programacao/tree/main/DesafioCalculadora)
 - `Escrevendo as Classes de Um Jogo: ` [Link](https://github.com/Thamyresmya/Desafios-Dio-Logica-Programacao/tree/main/DesafioJogo)
 
